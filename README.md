@@ -1,6 +1,6 @@
 # GEEKSTUDIO
 
-⚡ The VSCode extension with the built-in Geekros toolchain ⚡
+⚡ The VSCode extension with the built-in GEEKROS toolchain ⚡
 
 ## License
 

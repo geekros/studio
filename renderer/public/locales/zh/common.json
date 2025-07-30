@@ -1,0 +1,26 @@
+{
+    "example": {
+        "language": "语言",
+        "subtitle": "这是一个用于使用 Vite 和 TypeScript 构建 React 应用程序的简单入门模板。",
+        "description": "你可以从这里开始构建你的应用程序。",
+        "code": "源代码"
+    },
+    "common": {
+        "cancel": "取消",
+        "close": "关闭",
+        "confirm": "确认",
+        "ok": "确定",
+        "save": "保存",
+        "delete": "删除",
+        "edit": "编辑",
+        "add": "添加",
+        "view": "查看",
+        "update": "更新",
+        "create": "创建",
+        "connect": "连接",
+        "connecting": "连接中",
+        "disconnect": "断开",
+        "choose_camera": "选择摄像头",
+        "choose_microphone": "选择麦克风"
+    }
+}
