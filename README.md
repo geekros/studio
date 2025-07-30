@@ -1,4 +1,4 @@
-# GEEKSTUDIO
+# GEEKROS STUDIO
 
 ⚡ The VSCode extension with the built-in GEEKROS toolchain ⚡
 
