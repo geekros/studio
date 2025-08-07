@@ -1,6 +1,6 @@
 # GEEKROS STUDIO
 
-⚡ The VSCode extension with the built-in GEEKROS toolchain ⚡
+⚡ The vscode extension ⚡
 
 ## License
 
